@@ -1,0 +1,29 @@
+﻿Hannes H.
+-BS. Computer science
+-M.D. and Dr.D. in "Miðlunartækni og vísindum" (computer science specialized not sure about translation)
+-Dósent (department head?) in computer science
+-computer skills: very good
+-little experience in robotics, people around him were dsigning lego Mindstorm. Mostly just tinkering.
+UI test
+-explained as a phone app might bias
+-Robot setup intuative (confusing becuse of module 1,2,3 instead of Drive MOdule or something simple).
+-Wanted to have the automatic scaning of modules (assumed that the base would not be modular aswell)
+-control test : intuative "needs a rotation icon instead of arrow" , "no start or stop so i must assume that this is direct controll"
+Physical test
+-got how the robot would work when leg module was shown.
+
+"Classic", "intresting" , "the old classic is logo turtle" , "the kids would have to moce that robot with code, ... they can also attach a marker to try to make the robot draw shapes"(our plans already). 
+-no spesific reaction to the path sketcher
+"once you have some automation then you already have it better then the turtle bot as it had only hard programming"
+"The lego mindstorm added sensors so this is more close to that, line followers are classic"
+"using computers as a control system is intresting becuse we dont normaly make computers act alot on the physical world at the moment so this is intresting".
+-Robox learning (competetor 10 years old for kids)
+"Classic"
+"Needs a twist on the classic"
+Skema had a learning thing used scratch? to control robots (probably new lego mindstorm)
+-self configurable robot has all the modules there and tries to configure as he goes and reconfigures once a challange is met (snake robots basicly) . "as the robot goes it gets modules as it goes (the game snake?)"
+Talked a bunch about about self replicating robot forgot the term note bobiverse
+Liquid robot like in terminator (where si this man going?)
+"kids should learn to control robots themself instead of getting pre configured packeges"
+summary : liked the concept needs some type of a twist.
+END OF HANNES H. INTERVEIW

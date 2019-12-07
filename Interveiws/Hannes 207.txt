@@ -1,0 +1,14 @@
+﻿Hannes 207
+-Rafeindatækni (electrical applied engineering???)
+-Lab manager
+-decent at computers
+-has made a beer robot thingy before
+
+UI test
+-found setup intuative
+-"needs a rotation sign instead of an arrow sign" note the text went offscreen and scrolling was recuired confusing most of the subjects.
+Physical
+-wanted to test the robot but couldn't
+-"looks good", "this is simply a new version of the old project","cool project would love to see it in action" , "the height thingy is usefull for camera stabalisation" , found it intuative.
+result : cool and seems promising
+END OF Hannes 207

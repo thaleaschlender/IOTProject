@@ -1,0 +1,15 @@
+Snorri 
+-Aprrentership test in machine opperations and is in applied engerneering
+-No special computer skills mostly matlab but eager to learn
+-helped his little brother alot when he is learning
+-wants to learn more about robotics
+UI TEST
+-home screen bugged here and he could not do nothing for a minute so he got a little frustrated
+-got it right once i fixed that.
+
+Q:"do you think this is a good example to teach robotics?"
+A:"my experience is that virtual mimics dont teach much while physical things and controlling things throgh a controller and by afriad of breaking it"
+- more modules and c,c++ programing
+"i think that would be very cool"
+note: He thoght he would be controling the robot then so a little disapointed becuse of this.
+END OF INTERVEIW

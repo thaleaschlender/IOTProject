@@ -1,0 +1,26 @@
+﻿Kristinn
+-Dr degree in A.I. from  MIT
+-"have studied a little in pshycoligy and philosophy but mostly computers last 30 years"
+-very good with computers
+-Has worked on many robotics project fx
+R&D projcet for a social robot that can talk with voice and hand mocements and could work with people.
+One of the leaders in  software for ASEMO (Honda) where they tought it to play games with kids
+UI TEST
+-found setup intuative (didn't find sandwich menu at first after that easy peezy lemon squeezy)
+-laughed at the photo
+-got confused pre-scroll
+-wanted to test the robot :(
+-"self explanitory"
+PHYSICAL THINGS
+loved the leg module (talked about connections to the base for a minute )"this is 'snilld'", "very cool start" , "beutiful (the force sensor)" 
+Q"this is meant to help teach robotics do you think we got this right or is anything we are missing?"
+A:"yes and yes, there are levels that a student has to go throgh when starting, what I have done when i am teaching this for beginiers is explain them using Brightenburg vehicles" (drew that example and explained that google it!), book called vehcles by him is a must read, 2 motors car chasing light. "you can explain this to a 7 year old." (note: this already has a couple of levels so it can be a couple of labs even)
+"The Leg module is a little advanced for kids but the wheel thing can be used to even make the brighten burg thing"
+"This is a fun idea"
+-did not know about H bridges "this is something i was missing when starting out"
+"There was no WWW when i started"
+"This is algjör snilld (pure genius)"
+"I would say that you need to care massivly about what the backround of the student is, if it is to simple it is boring and if it is to hard it is frustrating"(goldilocks basicly)
+"I think this (leg module) is genius for people who want to go more advanced"
+wants to be invited in driving and testing later on 
+END OF INTERVEIW WITH KRISTINN
