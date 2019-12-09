@@ -85,18 +85,9 @@ int main(int echo,char** unused){
 				 }
 			 }
 		}
-		ifstream fp;
-		fp.open("log.txt");
-		while (fp) {
-			getline(fp, data);
-		}
-		fp.close();
-
-		ofs.open("log.txt", ofstream::out | ofstream::trunc);
-		ofs.close();
-
+		
 		//process
-		if (hit) {
+		if (false) {
 			if (fbstate == "f") {
 				if (lrstate == "l") {
 					angle = "45";
@@ -139,8 +130,18 @@ int main(int echo,char** unused){
 			data = time + ","+dir+","+angle+"!";
 		}
 
-		//send
-		if (!(time == "0")) {
+		ifstream fp;
+		fp.open("log.txt");
+		while (fp) {
+			getline(fp, data);
+		}
+		fp.close();
+
+		ofs.open("log.txt", ofstream::out | ofstream::trunc);
+		ofs.close();
+
+		cin >> data;
+		if (true) {
 			cout << data << endl;
 			data = data + '\n';
 			server.SendAll(data);
